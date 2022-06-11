@@ -1,0 +1,12 @@
+.wrapper {
+	margin: 20px 0px 0px 100px;
+}
+
+.header {
+	color: tomato;
+	margin-bottom: 20px;
+}
+
+.itemTable {
+	border: 10px solid rgb(255,182,194);
+}
